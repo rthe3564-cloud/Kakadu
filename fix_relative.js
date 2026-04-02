@@ -1,5 +1,5 @@
 const fs = require('fs');
-const files = ['index.html', 'assets/index-DVNmE8I2.js', 'assets/prerender-c8efxLcN.js'];
+const files = ['index.html', 'assets/index-dvnme8i2.js', 'assets/prerender-c8efxlcn.js'];
 
 files.forEach(file => {
     if (fs.existsSync(file)) {
