@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head><title>Kakadu: One Family – Official Website</title>
+    <meta charset="UTF-8" >
+
+    <link rel="icon" href="/favicon.ico" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <meta       name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    >
+    <!-- <meta name="robots" content="noindex, nofollow" /> -->
+
+    <meta name="apple-mobile-web-app-title" content="Kakadu users" >
+    <script type="module" crossorigin src="/assets/index-DVNmE8I2.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/prerender-c8efxLcN.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-DJu_O_Yu.css">
+  <meta name="description" content="Kakadu VPN is the only ad-free VPN that helps you stay connected wherever you are. Fast and secure access to your favorite websites and apps around the world.">
+<meta property="og:title" content="Kakadu: One Family – Official Website">
+<meta property="og:description" content="Kakadu VPN is the only ad-free VPN that helps you stay connected wherever you are. Fast and secure access to your favorite websites and apps around the world.">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://kakadu.ae/">
+<link rel="alternate" hreflang="ru" href="https://kakadu.ae/">
+<link rel="alternate" hreflang="en" href="https://kakadu.ae/">
+<link rel="alternate" hreflang="x-default" href="https://kakadu.ae/en/"></head>
+  <body>
+    <div id="app"></div>
+
+    <!-- Google tag (gtag.js) -->
+    <script       async
+      src="https://www.googletagmanager.com/gtag/js?id=AW-17699797777"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "AW-17699797777");
+    </script>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+      (function (m, e, t, r, i, k, a) {
+        m[i] =
+          m[i] ||
+          function () {
+            (m[i].a = m[i].a || []).push(arguments);
+          };
+        m[i].l = 1 * new Date();
+        for (var j = 0; j < document.scripts.length; j++) {
+          if (document.scripts[j].src === r) {
+            return;
+          }
+        }
+        ((k = e.createElement(t)),
+          (a = e.getElementsByTagName(t)[0]),
+          (k.async = 1),
+          (k.src = r),
+          a.parentNode.insertBefore(k, a));
+      })(
+        window,
+        document,
+        "script",
+        "https://mc.yandex.ru/metrika/tag.js?id=104628672",
+        "ym",
+      );
+
+      ym(104628672, "init", {
+        ssr: true,
+        webvisor: true,
+        clickmap: true,
+        ecommerce: "dataLayer",
+        referrer: document.referrer,
+        url: location.href,
+        accurateTrackBounce: true,
+        trackLinks: true,
+      });
+    </script>
+    <noscript       ><div>
+        <img
+          src="https://mc.yandex.ru/watch/104628672"
+          style="position: absolute; left: -9999px"
+          alt=""
+        /></div
+    ></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+  </body>
+</html>
